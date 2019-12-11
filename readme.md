@@ -39,6 +39,10 @@ You can set these variables in the `phpunit.xml.dist` file.
 
     * Discount ID: coupon-1, Price: $5
     * Discount ID: plan-credit, Price $1
+    
+#### Processing
+
+    * disable 'Duplicate Transaction Checking' in Processing Options to enable swap checks
 
 ## Official Documentation
 
